@@ -1,0 +1,45 @@
+_repo: Face-au-drapeau_16826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Science fiction
+gutenberg_issued: '2005-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16826'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'Patriotism -- Fiction'
+- !lcsh 'Mentally ill -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Avarice -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Loyalty -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Weapons of mass destruction -- Fiction'
+title: Face au drapeau
+url: http://www.gutenberg.org/ebooks/16826
